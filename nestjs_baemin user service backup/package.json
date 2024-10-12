@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nestjs/common": "^10.4.4",
+    "@nestjs/jwt": "^10.2.0",
+    "@nestjs/swagger": "^7.4.2",
+    "@prisma/client": "^5.20.0",
+    "prisma": "^5.20.0"
+  }
+}
